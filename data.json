@@ -457,12 +457,12 @@
           "type": "group",
           "home_team": 3,
           "away_team": 4,
-          "home_result": null,
-          "away_result": null,
+          "home_result": 2,
+          "away_result": 3,
           "date": "2018-05-29T17:00:00+05:00",
           "stadium": 12,
           "channels": [3,6],
-          "finished": false,
+          "finished": true,
           "matchday": 1
         },
         {
