@@ -1382,17 +1382,17 @@
         {
           "name": 64,
           "type": "winner",
-          "home_team": 61,
-          "away_team": 62,
-          "home_result": null,
-          "away_result": null,
-          "home_penalty": null,
-          "away_penalty": null,
-          "winner": null,
+          "home_team": 10,
+          "away_team": 1,
+          "home_result": 1,
+          "away_result": 0,
+          "home_penalty": 0,
+          "away_penalty": 0,
+          "winner": 10,
           "date": "2018-07-15T18:00:00+03:00",
           "stadium": 1,
           "channels": [3, 4],
-          "finished": false,
+          "finished": true,
           "matchday": 7
         }
       ]
