@@ -679,12 +679,12 @@
           "type": "group",
           "home_team": 10,
           "away_team": 11,
-          "home_result": 2,
-          "away_result": 1,
+          "home_result": null,
+          "away_result": null,
           "date": "2018-06-26T17:00:00+02:00",
           "stadium": 11,
           "channels": [5,6],
-          "finished": true,
+          "finished": false,
           "matchday": 3
         }
       ]
