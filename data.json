@@ -1380,10 +1380,10 @@
       "name": "Final",
       "matches": [
         {
-          "name": 101,
+          "name": 102,
           "type": "winner",
-          "home_team": 10,
-          "away_team": 1,
+          "home_team": 63,
+          "away_team": 64,
           "home_result": null,
           "away_result": null,
           "home_penalty": null,
