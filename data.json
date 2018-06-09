@@ -444,12 +444,12 @@
           "type": "group",
           "home_team": 1,
           "away_team": 2,
-          "home_result": null,
-          "away_result": null,
+          "home_result": 1,
+          "away_result": 1,
           "date": "2018-06-10T18:00:00+03:00",
           "stadium": 1,
           "channels": [4,6],
-          "finished": false,
+          "finished": true,
           "matchday": 1
         },
         {
@@ -457,12 +457,12 @@
           "type": "group",
           "home_team": 3,
           "away_team": 4,
-          "home_result": null,
-          "away_result": null,
-          "date": "2018-06-11T17:00:00+05:00",
+          "home_result": 1,
+          "away_result": 2,
+          "date": "2018-06-10T17:00:00+05:00",
           "stadium": 12,
           "channels": [3,6],
-          "finished": false,
+          "finished": true,
           "matchday": 1
         },
         {
