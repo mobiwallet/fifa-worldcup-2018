@@ -444,12 +444,12 @@
           "type": "group",
           "home_team": 1,
           "away_team": 2,
-          "home_result": 1,
-          "away_result": 1,
-          "date": "2018-05-29T18:00:00+03:00",
+          "home_result": null,
+          "away_result": null,
+          "date": "2018-06-10T18:00:00+03:00",
           "stadium": 1,
           "channels": [4,6],
-          "finished": true,
+          "finished": false,
           "matchday": 1
         },
         {
@@ -457,12 +457,12 @@
           "type": "group",
           "home_team": 3,
           "away_team": 4,
-          "home_result": 2,
-          "away_result": 3,
-          "date": "2018-05-29T17:00:00+05:00",
+          "home_result": null,
+          "away_result": null,
+          "date": "2018-06-11T17:00:00+05:00",
           "stadium": 12,
           "channels": [3,6],
-          "finished": true,
+          "finished": false,
           "matchday": 1
         },
         {
@@ -470,12 +470,12 @@
           "type": "group",
           "home_team": 1,
           "away_team": 3,
-          "home_result": 3,
-          "away_result": 2,
-          "date": "2018-05-30T21:00:00+03:00",
+          "home_result": null,
+          "away_result": null,
+          "date": "2018-06-11T21:00:00+03:00",
           "stadium": 3,
           "channels": [3,6],
-          "finished": true,
+          "finished": false,
           "matchday": 2
         },
         {
@@ -483,9 +483,9 @@
           "type": "group",
           "home_team": 4,
           "away_team": 2,
-          "home_result": 2,
-          "away_result": 2,
-          "date": "2018-05-30T18:00:00+03:00",
+          "home_result": null,
+          "away_result": null,
+          "date": "2018-06-11T18:00:00+03:00",
           "stadium": 10,
           "channels": [3,6],
           "finished": false,
@@ -498,7 +498,7 @@
           "away_team": 1,
           "home_result": null,
           "away_result": null,
-          "date": "2018-05-31T18:00:00+04:00",
+          "date": "2018-06-11T18:00:00+04:00",
           "stadium": 7,
           "channels": [4,6],
           "finished": false,
@@ -511,7 +511,7 @@
           "away_team": 3,
           "home_result": null,
           "away_result": null,
-          "date": "2018-05-31T17:00:00+03:00",
+          "date": "2018-06-11T17:00:00+03:00",
           "stadium": 8,
           "channels": [5,6],
           "finished": false,
@@ -531,7 +531,7 @@
           "away_team": 6,
           "home_result": null,
           "away_result": null,
-          "date": "2018-06-10T21:00:00+03:00",
+          "date": "2018-06-11T21:00:00+03:00",
           "stadium": 11,
           "channels": [3,7],
           "finished": false,
@@ -544,10 +544,10 @@
           "away_team": 8,
           "home_result": 2,
           "away_result": 1,
-          "date": "2018-06-10T18:00:00+03:00",
+          "date": "2018-06-11T18:00:00+03:00",
           "stadium": 3,
           "channels": [4,6],
-          "finished": true,
+          "finished": false,
           "matchday": 1
         },
         {
@@ -560,7 +560,7 @@
           "date": "2018-06-20T15:00:00+03:00",
           "stadium": 1,
           "channels": [3,6],
-          "finished": true,
+          "finished": false,
           "matchday": 2
         },
         {
@@ -573,7 +573,7 @@
           "date": "2018-06-20T21:00:00+03:00",
           "stadium": 5,
           "channels": [4,7],
-          "finished": true,
+          "finished": false,
           "matchday": 2
         },
         {
@@ -614,12 +614,12 @@
           "type": "group",
           "home_team": 9,
           "away_team": 10,
-          "home_result": 0,
-          "away_result": 1,
+          "home_result": null,
+          "away_result": null,
           "date": "2018-06-16T13:00:00+03:00",
           "stadium": 5,
           "channels": [3,6],
-          "finished": true,
+          "finished": false,
           "matchday": 1
         },
         {
@@ -854,7 +854,7 @@
           "date": "2018-06-27T21:00:00+03:00",
           "stadium": 6,
           "channels": [5,6],
-          "finished": true,
+          "finished": false,
           "matchday": 3
         }
       ]
