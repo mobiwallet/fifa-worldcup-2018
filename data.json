@@ -5,84 +5,96 @@
       "name": "Luzhniki Stadium",
       "city": "Moscow",
       "lat": 55.715765,
-      "lng": 37.5515217
+      "lng": 37.5515217,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Luzhniki_Stadium%2C_Moscow.jpg"
     },
     {
       "id": 2,
       "name": "Otkrytiye Arena",
       "city": "Moscow",
       "lat": 55.817765,
-      "lng": 37.440363
+      "lng": 37.440363,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Stadium_Spartak_in_Moscow.jpg"
     },
     {
       "id": 3,
       "name": "Krestovsky Stadium",
       "city": "Saint Petersburg",
       "lat": 59.972740,
-      "lng": 30.221408
+      "lng": 30.221408,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Spb_06-2017_img40_Krestovsky_Stadium.jpg"
     },
     {
       "id": 4,
       "name": "Kaliningrad Stadium",
       "city": "Kaliningrad",
       "lat": 54.698157,
-      "lng": 20.533859
+      "lng": 20.533859,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kaliningrad_stadium_-_2018-04-07.jpg"
     },
     {
       "id": 5,
       "name": "Kazan Arena",
       "city": "Kazan",
       "lat": 55.820983,
-      "lng": 49.160966
+      "lng": 49.160966,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kazan_Arena_08-2016.jpg"
     },
     {
       "id": 6,
       "name": "Nizhny Novgorod Stadium",
       "city": "Nizhny Novgorod",
       "lat": 56.337287,
-      "lng": 43.963251
+      "lng": 43.963251,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Nizhny_Novgorod_Stadium_%28March_2018%29.jpg"
     },
     {
       "id": 7,
       "name": "Cosmos Arena",
       "city": "Samara",
       "lat": 53.278146,
-      "lng": 50.238854
+      "lng": 50.238854,
+      "image": "http://img.fifa.com/image/upload/t_l4/d0mymt1ubl2pypmu3gn3.jpg"
     },
     {
       "id": 8,
       "name": "Volgograd Arena",
       "city": "Volgograd",
       "lat": 48.734195,
-      "lng": 44.548345
+      "lng": 44.548345,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Construction_of_Volgograd_Arena_inside_04.jpg"
     },
     {
       "id": 9,
       "name": "Mordovia Arena",
       "city": "Saransk",
       "lat": 54.181795,
-      "lng": 45.203851
+      "lng": 45.203851,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/%D0%A1%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_Mordovia_arena.jpg"
     },
     {
       "id": 10,
       "name": "Rostov Arena",
       "city": "Rostov-on-Don",
       "lat": 47.209581,
-      "lng": 39.738424
+      "lng": 39.738424,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rostov-Arens_%28april_2018%29_01.jpg"
     },
     {
       "id": 11,
       "name": "Fisht Olympic Stadium",
       "city": "Sochi",
       "lat": 43.402011,
-      "lng": 39.955709
+      "lng": 39.955709,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Fisht_Stadium_in_January_2018.jpg"
     },
     {
       "id": 12,
       "name": "Central Stadium",
       "city": "Yekaterinburg",
       "lat": 56.832490,
-      "lng": 60.573585
+      "lng": 60.573585,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Estadio_Central_%28Ekaterinburg-arena%29.jpg"
     }
   ],
   "tvchannels": [
@@ -141,6 +153,46 @@
       "country": "Spain",
       "iso2": "es",
       "lang": ["es"]
+    },
+    {
+      "id": 8,
+      "name": "Globo",
+      "icon": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",
+      "country": "Brazil",
+      "iso2": "br",
+      "lang": ["pt-br"]
+    },
+    {
+      "id": 9,
+      "name": "SportTV",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/692px-SporTV_2017_logo.svg.png",
+      "country": "Brazil",
+      "iso2": "br",
+      "lang": ["pt-br"]
+    },
+    {
+      "id": 10,
+      "name": "SportTV2",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/664px-SporTV_2_2017_logo.svg.png",
+      "country": "Brazil",
+      "iso2": "br",
+      "lang": ["pt-br"]
+    },
+    {
+      "id": 11,
+      "name": "SportTV3",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/703px-SporTV_3_2017_logo.svg.png",
+      "country": "Brazil",
+      "iso2": "br",
+      "lang": ["pt-br"]
+    },
+    {
+      "id": 12,
+      "name": "Sony Ten",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_TEN_logo.png",
+      "country": "India",
+      "iso2": "en",
+      "lang": ["en"]
     }
   ],
   "teams": [
@@ -410,7 +462,7 @@
       "name": "Senegal",
       "fifaCode": "SEN",
       "iso2": "sn",
-      "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/900px-Flag_of_Senegal.svg.png",
       "emoji": "flag-sn",
       "emojiString": "🇸🇳"
     },
@@ -444,12 +496,12 @@
           "type": "group",
           "home_team": 1,
           "away_team": 2,
-          "home_result": 1,
-          "away_result": 1,
-          "date": "2018-06-10T18:00:00+03:00",
+          "home_result": null,
+          "away_result": null,
+          "date": "2018-06-11T07:00:00+03:00",
           "stadium": 1,
           "channels": [4,6],
-          "finished": true,
+          "finished": false,
           "matchday": 1
         },
         {
@@ -457,12 +509,12 @@
           "type": "group",
           "home_team": 3,
           "away_team": 4,
-          "home_result": 1,
-          "away_result": 2,
-          "date": "2018-06-10T17:00:00+05:00",
+          "home_result": null,
+          "away_result": null,
+          "date": "2018-06-15T17:00:00+05:00",
           "stadium": 12,
           "channels": [3,6],
-          "finished": true,
+          "finished": false,
           "matchday": 1
         },
         {
@@ -472,7 +524,7 @@
           "away_team": 3,
           "home_result": null,
           "away_result": null,
-          "date": "2018-06-11T21:00:00+03:00",
+          "date": "2018-06-19T21:00:00+03:00",
           "stadium": 3,
           "channels": [3,6],
           "finished": false,
@@ -485,7 +537,7 @@
           "away_team": 2,
           "home_result": null,
           "away_result": null,
-          "date": "2018-06-11T18:00:00+03:00",
+          "date": "2018-06-20T18:00:00+03:00",
           "stadium": 10,
           "channels": [3,6],
           "finished": false,
@@ -498,7 +550,7 @@
           "away_team": 1,
           "home_result": null,
           "away_result": null,
-          "date": "2018-06-11T18:00:00+04:00",
+          "date": "2018-06-25T18:00:00+04:00",
           "stadium": 7,
           "channels": [4,6],
           "finished": false,
@@ -511,7 +563,7 @@
           "away_team": 3,
           "home_result": null,
           "away_result": null,
-          "date": "2018-06-11T17:00:00+03:00",
+          "date": "2018-06-25T17:00:00+03:00",
           "stadium": 8,
           "channels": [5,6],
           "finished": false,
@@ -531,7 +583,7 @@
           "away_team": 6,
           "home_result": null,
           "away_result": null,
-          "date": "2018-06-11T21:00:00+03:00",
+          "date": "2018-06-15T21:00:00+03:00",
           "stadium": 11,
           "channels": [3,7],
           "finished": false,
@@ -542,9 +594,9 @@
           "type": "group",
           "home_team": 7,
           "away_team": 8,
-          "home_result": 2,
-          "away_result": 1,
-          "date": "2018-06-11T18:00:00+03:00",
+          "home_result": null,
+          "away_result": null,
+          "date": "2018-06-15T18:00:00+03:00",
           "stadium": 3,
           "channels": [4,6],
           "finished": false,
@@ -555,8 +607,8 @@
           "type": "group",
           "home_team": 5,
           "away_team": 7,
-          "home_result": 1,
-          "away_result": 0,
+          "home_result": null,
+          "away_result": null,
           "date": "2018-06-20T15:00:00+03:00",
           "stadium": 1,
           "channels": [3,6],
@@ -568,8 +620,8 @@
           "type": "group",
           "home_team": 8,
           "away_team": 6,
-          "home_result": 1,
-          "away_result": 2,
+          "home_result": null,
+          "away_result": null,
           "date": "2018-06-20T21:00:00+03:00",
           "stadium": 5,
           "channels": [4,7],
@@ -849,8 +901,8 @@
           "type": "group",
           "home_team": 18,
           "away_team": 19,
-          "home_result": 1,
-          "away_result": 1,
+          "home_result": null,
+          "away_result": null,
           "date": "2018-06-27T21:00:00+03:00",
           "stadium": 6,
           "channels": [5,6],
