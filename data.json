@@ -769,7 +769,7 @@
           "date": "2018-06-16T21:00:00+02:00",
           "stadium": 4,
           "channels": [4,6],
-          "finished": false,
+          "finished": true,
           "matchday": 1
         },
         {
