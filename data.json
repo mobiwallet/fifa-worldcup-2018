@@ -1122,17 +1122,17 @@
         {
           "name": 49,
           "type": "qualified",
-          "home_team": "winner_a",
-          "away_team": "runner_b",
-          "home_result": null,
-          "away_result": null,
+          "home_team": 3,
+          "away_team": 5,
+          "home_result": 1,
+          "away_result": 2,
           "home_penalty": null,
           "away_penalty": null,
-          "winner": null,
+          "winner": 5,
           "date": "2018-06-30T17:00:00+03:00",
           "stadium": 11,
           "channels": [4],
-          "finished": false,
+          "finished": true,
           "matchday": 4
         },
         {
