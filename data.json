@@ -1204,15 +1204,15 @@
           "type": "qualified",
           "home_team": 25,
           "away_team": 32,
-          "home_result": null,
-          "away_result": null,
+          "home_result": 3,
+          "away_result": 2,
           "home_penalty": null,
           "away_penalty": null,
           "winner": null,
           "date": "2018-07-02T21:00:00+03:00",
           "stadium": 10,
           "channels": [3,6],
-          "finished": false,
+          "finished": true,
           "matchday": 4
         },
         {
