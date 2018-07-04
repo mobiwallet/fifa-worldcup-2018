@@ -1220,15 +1220,15 @@
           "type": "qualified",
           "home_team": 23,
           "away_team": 18,
-          "home_result": null,
-          "away_result": null,
+          "home_result": 1,
+          "away_result": 0,
           "home_penalty": null,
           "away_penalty": null,
           "winner": null,
           "date": "2018-07-03T17:00:00+03:00",
           "stadium": 3,
           "channels": [4,6],
-          "finished": false,
+          "finished": true,
           "matchday": 4
         },
         {
@@ -1236,15 +1236,15 @@
           "type": "qualified",
           "home_team": 31,
           "away_team": 28,
-          "home_result": null,
-          "away_result": null,
+          "home_result": 1,
+          "away_result": 1,
           "home_penalty": null,
           "away_penalty": null,
           "winner": null,
           "date": "2018-07-03T21:00:00+03:00",
           "stadium": 2,
           "channels": [3,6],
-          "finished": false,
+          "finished": true,
           "matchday": 4
         }
       ]
